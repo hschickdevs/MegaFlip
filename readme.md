@@ -1,6 +1,6 @@
 # [-- Megaflip --](https://github.com/hschickdevs/megaflip/blob/main/coin_flip_simulation.py)
 ___
-### - This is just a quick and interesting program that I thought of when I wanted to determine the fairness of coinflips.
+### - This is just a quick and interesting program that I thought of when I wanted to determine & ensure the fairness of coinflips.
 
 ### - The program allows you to make an infinite number of coinflips per "flip", and specify a "best of" parameter.
 
