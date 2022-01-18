@@ -35,5 +35,6 @@ while True:
           f"Heads: {coinflip_results['total_heads']}\n"
           f"Tails: {coinflip_results['total_tails']}\n"
           f"{coinflip_results['winner']} won by {abs(coinflip_results['total_heads'] - coinflip_results['total_tails'])} flips out of {coinflip_results['total_flips']} total.")
+
     if len(winners) > 2:
         print(f"\nTotal Overall Wins: Heads - {winners.count('Heads')} | Tails - {winners.count('Tails')}")
